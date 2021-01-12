@@ -1,0 +1,8 @@
+{
+    "condition": "minecraft:inverted",
+    "term": {
+      "condition": "minecraft:time_check",
+      "value": 0,
+      "period": 24000
+    }
+  }

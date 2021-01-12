@@ -1,0 +1,35 @@
+------install mods--------
+
+custom achievements
+custom loot_tables
+custome recipes
+pledge tied racial abilities
+    yonk someone elses class datapack and customize
+enchantments:
+    slowness
+    wither
+    blindness
+    push
+    soulbound
+stelth
+magic cults of the east
+snowball to pine cone to fire
+night vision at night
+survival only drop only couple items
+
+spells try use the already rpg thing:
+    regen
+    fireball aoe
+    wither aoe
+    slow aoe
+    strenght aoe buff
+    poison
+    Gandalf- light
+    lighting
+    thunder storm
+        leaves fire
+    meteor saron
+    wind- push
+    wild growth
+    ignight
+    
